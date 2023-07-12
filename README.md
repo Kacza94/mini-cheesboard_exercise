@@ -1,3 +1,3 @@
-# mini-cheesboard_exercise
+# mini-chessboard_exercise
 
 Exercise with display (inline-block, absolute) and float. 
